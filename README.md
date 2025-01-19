@@ -2,6 +2,7 @@
 Description:
 This porject on focusses on balancing dataset using smapling techniques over credit credit_card dataset.
 Following is accuracy before and after balancing dataset
+
  Sampling Method                Model  Accuracy
 0             Original        Random Forest  0.987097
 1             Original  Logistic Regression  0.987097
